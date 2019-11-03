@@ -9,6 +9,7 @@ After 3 days the game ends.
 
 ## Game Areas
 ·Entrance
+
 ·Stadium
 
 ·Park
