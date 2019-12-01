@@ -1,10 +1,10 @@
-# WikiDirtTrack
+# DirtTrack
 We are two stuents from CITM UPC developing an Artificial Intelligence videogame for the AI subject.
 
 Dirt Track
 Dirt Track is a Stadium Manager. Everyday day people will come to your stadium, manage the ticket price and upgrade the races thanks to the mechanics. During night cops will patrol 
 
-Use WASD or the mouse in order to move the camera. You can do zoom with the wheel (ONLY IN CAMERA 2).
+Use WASD or the mouse in order to move the camera. You can do zoom with the wheel (ONLY IN CAMERA 4).
 After 3 days the game ends.
 
 ## Game Areas
@@ -40,10 +40,11 @@ Faster bikes = More money!
 
 Link: https://github.com/GuillemArman/Dirt-Track
 
-Marc de Pedro : https://github.com/marcdp1997
+Marc de Pedro: https://github.com/marcdp1997
 
-Guillem Arman : https://github.com/GuillemArman
+Guillem Arman: https://github.com/GuillemArman
 
+Wiki: https://github.com/GuillemArman/WikiDirtTrack
 
 
 ### License ###
@@ -57,3 +58,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
