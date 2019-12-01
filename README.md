@@ -25,7 +25,7 @@ Visitors will spend their money in your Stadium. Make sure you gain money with t
 
 ### Police
 
-They will patrol and make sure visitors pay the entrance ticket. If someone does not pay they will take him out.
+They will patrol at night. During day they will look out the visitors.
 
 ![](https://imgur.com/7G92Int.png)
 
