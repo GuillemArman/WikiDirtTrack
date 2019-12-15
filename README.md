@@ -5,6 +5,7 @@ Dirt Track
 Dirt Track is a Stadium Manager. Everyday day people will come to your stadium, manage the ticket price and upgrade the races thanks to the mechanics. Complete the quests and make sure everybody pays the ticket entrance!
 
 Use WASD or the mouse in order to move the camera. You can do zoom with the wheel (ONLY IN CAMERA 4).
+You can select a cop to chase visitors that don't pay the ticket.
 After 3 days the game ends.
 
 ## Game Areas
