@@ -2,7 +2,7 @@
 We are two stuents from CITM UPC developing an Artificial Intelligence videogame for the AI subject.
 
 Dirt Track
-Dirt Track is a Stadium Manager. Everyday day people will come to your stadium, manage the ticket price and upgrade the races thanks to the mechanics. During night cops will patrol 
+Dirt Track is a Stadium Manager. Everyday day people will come to your stadium, manage the ticket price and upgrade the races thanks to the mechanics. During night cops will patrol. 
 
 Use WASD or the mouse in order to move the camera. You can do zoom with the wheel (ONLY IN CAMERA 4).
 After 3 days the game ends.
@@ -25,14 +25,14 @@ Visitors will spend their money in your Stadium. Make sure you gain money with t
 
 ### Police
 
-They will patrol at night. During day they will look out the visitors.
+They will patrol at night. During day they will look out the visitors. If some visitor tries to sneak and don't pay the ticket, cops will chase them and make them pay a fee. 
 
 ![](https://imgur.com/HGmXPZF.png)
 
 ### Mechanics
 
-Mechanics will be investigating during the nightime in order to create faster bikes/monster trucks so the show increases.
-Faster bikes = More money!
+Mechanics will be taking care of the race. If vehicles runn out of fuel they will refill it. Buy more mechanics in order to make the race more chaotic and fun! 
+More vehicles = More money!
 
 ![](https://imgur.com/hHFVADe.png)
 
@@ -42,7 +42,11 @@ Link: https://github.com/GuillemArman/Dirt-Track
 
 Marc de Pedro: https://github.com/marcdp1997
 
+![](https://imgur.com/vfzdQr1.png)
+
 Guillem Arman: https://github.com/GuillemArman
+
+![](https://imgur.com/n7mBKwY.png)
 
 Wiki: https://github.com/GuillemArman/WikiDirtTrack
 
