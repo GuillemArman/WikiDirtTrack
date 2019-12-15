@@ -27,14 +27,14 @@ Visitors will spend their money in your Stadium. Make sure you gain money with t
 
 They will patrol at night. During day they will look out the visitors.
 
-![](https://imgur.com/7G92Int.png)
+![](https://imgur.com/HGmXPZF.png)
 
 ### Mechanics
 
 Mechanics will be investigating during the nightime in order to create faster bikes/monster trucks so the show increases.
 Faster bikes = More money!
 
-![](https://imgur.com/xs7R538.png)
+![](https://imgur.com/hHFVADe.png)
 
 ### Authors & Link ###
 
